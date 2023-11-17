@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto' sans-serif;
+    background-color: antiquewhite
+}
+.img-tag{
+    width: 10%;
+}
+.th_first {
+    border-top-left-radius: 8px
+}
+.th_last {
+    border-top-right-radius: 8px
+}
